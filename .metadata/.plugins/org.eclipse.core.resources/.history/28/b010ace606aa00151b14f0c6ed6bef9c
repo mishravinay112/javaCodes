@@ -1,0 +1,11 @@
+package test;
+
+public class check 
+{
+	public static void main(String[] args) {
+		String s="pratiba";
+		int v=s.charAt(3)-'0';
+		System.out.println(v);
+		System.out.println(s.charAt(3));
+	}
+}
